@@ -1,6 +1,14 @@
-# react-project-management
+# Practice Project 2 - react-project-management
 
-A react project on project management
+A react practice project on project management. Working with:
+
+1. components
+2. useState()
+3. Tailwind css
+4. useRef()
+5. forwardRef()
+6. useImperativeHandle()
+7. createPortal()
 
 [Eslint configuration - Best linting configuration is to use "format on save" and don't use "formatting option of ES Lint"](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8231814#questions/20789494)
 
